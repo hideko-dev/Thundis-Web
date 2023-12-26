@@ -1,0 +1,12 @@
+{
+  "general": {
+    "title": "General"
+  },
+  "javascript": {
+    "title": "JavaScript"
+  },
+  "demo": {
+    "title": "Demo",
+    "href": "https://distate.vercel.app"
+  }
+}
